@@ -1,0 +1,74 @@
+
+oauth2 using reddit
+https://www.reddit.com/
+
+link to docs
+https://github.com/reddit-archive/reddit/wiki/OAuth2
+
+additionak support
+https://www.reddit.com/r/redditdev/comments/dx0hbo/ill_admit_it_im_stupid_how_do_i_do_the_oauth2/
+https://www.reddit.com/r/redditdev/comments/197x36/using_oauth_to_send_valid_requests/
+
+
+My steps:
+Presentation.
+1. make a rediit icon in login
+DONE
+
+Important stuff
+1. add route and controler
+2. CHANGE .env + .env_example
+3. register an app
+https://www.reddit.com/prefs/apps
+
+now if you edit it secret will appire
+there is also a cilient id near the icon of your app
+scope identity
+
+4. BORING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
